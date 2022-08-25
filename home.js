@@ -8,11 +8,11 @@ export default function Home(props) {
     <Text> Welcome to the MTA App ! </Text>
     <Button
       title="Favorites"
-      onPress={() => props.setCurrentView(<Favorites/>)}
+      onPress={() => props.setCurrentView("favorites")}
     />
     <Button
       title="Search"
-      onPress={() => props.setCurrentView(<Search/>)}
+      onPress={() => props.setCurrentView("search")}
     />
     </>
   );

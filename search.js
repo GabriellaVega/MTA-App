@@ -1,8 +1,12 @@
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Button, Text, View } from 'react-native';
 
 export default function Search(props) {
-  return (<View>
+  return (<>
+    <Button
+      title="Home"
+      onPress={() => props.setCurrentView("home")}
+    />
     <Text> Search for a transit line: </Text>
-    </View>
+    </>
   );
 }
