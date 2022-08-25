@@ -1,7 +1,4 @@
-import React, { useState } from 'react';
-import { StyleSheet, Button, Text, View } from 'react-native';
-import Favorites from './favorites';
-import Search from './search';
+import { Button, Text } from 'react-native';
 
 export default function Home(props) {
   return (<>

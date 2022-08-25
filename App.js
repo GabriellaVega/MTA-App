@@ -1,13 +1,12 @@
-import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import Home from './home';
 import Favorites from './favorites';
 import Search from './search';
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 export default function App() {
   const [currentViewString, setCurrentView] = useState("home");
-  let CurrentView; 
+  let CurrentView;
   switch (currentViewString) {
     case "home":
       CurrentView = Home;
@@ -21,7 +20,10 @@ export default function App() {
     default:
       break;
   }
-  return (<View><CurrentView setCurrentView={setCurrentView}/></View>);
+  return (
+    <View>
+      <CurrentView setCurrentView={setCurrentView}/>
+    </View>);
 }
 
 const styles = StyleSheet.create({

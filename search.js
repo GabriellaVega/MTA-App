@@ -1,4 +1,4 @@
-import { StyleSheet, Button, Text, View } from 'react-native';
+import { Button, Text } from 'react-native';
 
 export default function Search(props) {
   return (<>
