@@ -1,13 +1,29 @@
-import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import Home from './home';
+import Favorites from './favorites';
+import Search from './search';
+import { useState } from 'react';
 
 export default function App() {
+  const [currentViewString, setCurrentView] = useState("home");
+  let CurrentView;
+  switch (currentViewString) {
+    case "home":
+      CurrentView = Home;
+      break;
+    case "favorites":
+      CurrentView = Favorites;
+      break;
+    case "search":
+      CurrentView = Search;
+      break;
+    default:
+      break;
+  }
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
+    <View>
+      <CurrentView setCurrentView={setCurrentView}/>
+    </View>);
 }
 
 const styles = StyleSheet.create({
