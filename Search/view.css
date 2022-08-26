@@ -1,0 +1,43 @@
+:root {
+  --header-color: rgba(20, 160, 255, 0.8);
+}
+
+.search-input {
+  width: 80%;
+  margin: 2% 10%;
+  height: 40px;
+  padding: 0px 10px;
+  border: 1.5px solid var(--header-color);
+  border-bottom-width: 3px;
+  border-radius: 0px 5px 2px 2px;
+}
+
+.header {
+  color: var(--header-color);
+}
+
+hr {
+  border-color: var(--header-color);
+  margin: 0px;
+}
+
+.results {
+  overflow: scroll;
+  max-height: 380px;
+}
+
+.row {
+  display: flex;
+  height: 60px;
+  padding-left: 1em;
+}
+.train-line, .station {
+  padding: 10px 0px 0px 10px;
+}
+.train-line {
+  font-style: italic;
+  color: #888;
+}
+.station {
+  color: #666;
+}

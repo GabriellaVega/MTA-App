@@ -1,0 +1,66 @@
+body {
+  margin: 0% 3%;
+}
+
+.app-container {
+  padding: 1% 2%;
+  border-radius: 0px 20px 0px 20px;
+}
+
+.home-button {
+  border: 1px solid black;
+  border-width: 0px 0px 1px 0px;
+  background-color: rgba(250, 20, 70, 0.5);
+  padding: 5px 8px;
+  border-radius: 3px 3px 0px 0px;
+  font-size: 16px;
+}
+
+/* Headers */
+.header {
+  padding: 0em 1em;
+  width: max-content;
+}
+
+.header-text {
+  padding: 0em 0.5em;
+  margin: 0;
+}
+
+/* Main content */
+.main-content {
+  margin: 2%;
+  background-color: rgba(240, 140, 250, 0.2);
+  padding: 2% 8%;
+  border-radius: 25px 0px 25px 0px;
+  min-height: 20em;
+}
+
+.bullet {
+  border-radius: 50%;
+  border: 3px solid #fff;
+  height: 30px;
+  width: 30px;
+  color: #fff;
+  text-align: center;
+  font-weight: 600;
+  font-size: 24px;
+  font-family: sans-serif;
+  line-height: 33px;
+}
+
+.culverloc { background-color: #70bd42; }
+.bmt14st   { background-color: #a8a9ad; }
+.nassau    { background-color: #9e652a; }
+.irtqueens { background-color: #b735b0; }
+.irtlex    { background-color: #00923d; }
+.bmtbw     { background-color: #f8cd18; }
+.ind6ave   { background-color: #ff6115; }
+.irt7ave   { background-color: #f13132; }
+.ind8ave   { background-color: #003ea6; }
+.shuttle   { background-color: #7f8082; }
+.staten    { 
+  background-color: #0079c5;
+  font-size: 16px;
+  line-height: 33px;
+}
