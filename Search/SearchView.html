@@ -7,48 +7,178 @@
 <body>
   <div class="app-container">
     <!-- Headers -->
-    <div>
-      <button class="home-button">< Home</button>
+    <div> <!-- Header row -->
+      <div class="left-group">
+        <button class="home-button">< Home</button>
+        <hr>
+      </div>
     </div>
 
     <!-- Main body -->
     <div class="main-content">
-      <div class="header">
-        <h1 class="header-text">Search</h1>
-        <hr>
+      <div class="main-content-header">
+        <div class="title">
+          <h1 class="header-text">Search</h1>
+          <hr>
+        </div> <!-- end title -->
+        <div class="cta-buttons">
+          <button>All</button><button>Trains</button><button>Stations</button>
+        </div>
       </div>
       <input type="text" placeholder="Search for subway lines and stations" class="search-input">
       <hr>
       <br>
       <!-- Results -->
       <div class="results">
+        <div class="results-section">
+          <h3 class="results-section-header">Trains</h3>
+          <hr>
+        </div>
+        <div class="row">
+          <div class="bullet ind8ave">A</div>
+          <div class="train-line">Arconia</div>
+        </div>
+        <div class="row">
+          <div class="bullet ind6ave">B</div>
+          <div class="train-line">Bronx to Brighton</div>
+        </div>
+        <div class="row">
+          <div class="bullet ind8ave">C</div>
+          <div class="train-line">C</div>
+        </div>
+        <div class="row">
+          <div class="bullet ind6ave">D</div>
+          <div class="train-line">D</div>
+        </div>
+        <div class="row">
+          <div class="bullet ind8ave">E</div>
+          <div class="train-line">Electra</div>
+        </div>
+        <div class="row">
+          <div class="bullet ind6ave">F</div>
+          <div class="train-line">F</div>
+        </div>
         <div class="row">
           <div class="bullet culverloc">G</div>
           <div class="train-line">Guava</div>
+        </div>
+        <div class="row">
+          <div class="bullet nassau">J</div>
+          <div class="train-line">Jammin' in Jamaica</div>
+        </div>
+        <div class="row">
+          <div class="bullet bmt14st">L</div>
+          <div class="train-line">Limón/Lima</div>
+        </div>
+        <div class="row">
+          <div class="bullet ind6ave">M</div>
+          <div class="train-line">M</div>
+        </div>
+        <div class="row">
+          <div class="bullet bmtbw">N</div>
+          <div class="train-line">N</div>
+        </div>
+        <div class="row">
+          <div class="bullet bmtbw">Q</div>
+          <div class="train-line">Q</div>
+        </div>
+        <div class="row">
+          <div class="bullet bmtbw">R</div>
+          <div class="train-line">R</div>
+        </div>
+        <div class="row">
+          <div class="bullet shuttle">S<sup>F</sup></div>
+          <div class="train-line">S<sup>F</sup></div>
+        </div>
+        <div class="row">
+          <div class="bullet shuttle">S<sup>R</sup></div>
+          <div class="train-line">S<sup>R</sup></div>
+        </div>
+        <div class="row">
+          <div class="bullet shuttle">S<sup>42</sup></div>
+          <div class="train-line">7<sup>lite<sup>lite</sup></sup></div>
+        </div>
+        <div class="row">
+          <div class="bullet bmtbw">W</div>
+          <div class="train-line">Wack!</div>
+        </div>
+        <div class="row">
+          <div class="bullet nassau">Z</div>
+          <div class="train-line">SometimeZ</div>
+        </div>
+        <div class="row">
+          <div class="bullet staten">SIR</div>
+          <div class="train-line">New Jersey Transit?</div>
+        </div>
+        <!-- Number trains -->
+        <div class="row">
+          <div class="bullet irt7ave">1</div>
+          <div class="train-line">1 Parakeet in a Partridge Tree</div>
+        </div>
+        <div class="row">
+          <div class="bullet irt7ave">2</div>
+          <div class="train-line">Gladys's Final Grade</div>
+        </div>
+        <div class="row">
+          <div class="bullet irt7ave">3</div>
+          <div class="train-line">Slowpoke</div>
+        </div>
+        <div class="row">
+          <div class="bullet irtlex">4</div>
+          <div class="train-line">4</div>
+        </div>
+        <div class="row">
+          <div class="bullet irtlex">5</div>
+          <div class="train-line">5</div>
+        </div>
+        <div class="row">
+          <div class="bullet irtlex">6</div>
+          <div class="train-line">6</div>
+        </div>
+        <div class="row">
+          <div class="bullet irtqueens">7</div>
+          <div class="train-line">Outdoorsy girl</div>
+        </div>
+
+        <!-- Station examples -->
+        <div class="results-section">
+          <h3 class="results-section-header">Stations</h3>
+          <hr>
         </div>
         <div class="row">
           <div class="bullet irtlex">6</div>
           <div class="station">103 St - Conservatory Garden</div>
         </div>
         <div class="row">
-          <div class="bullet staten">SIR</div>
-          <div class="train-line">New Jersey Transit?</div>
+          <div class="bullet culverloc">G</div><div class="bullet bmt14st">L</div>
+          <div class="station">Metropolitan - Lor<span style="font-size: 125%;">I</span>mer</div>
         </div>
         <div class="row">
-          <div class="bullet irtqueens">7</div>
-          <div class="station">Court Sq</div>
+          <div class="bullet ind6ave">B</div><div class="bullet ind8ave">C</div>
+          <div class="station">Dino 🦖 museum</div>
         </div>
         <div class="row">
           <div class="bullet irt7ave">1</div>
-          <div class="train-line">1 Parakeet in a Partridge Tree</div>
-        </div>
-        <div class="row">
+          <div class="bullet irt7ave">2</div>
+          <div class="bullet irt7ave">3</div>
+          <div class="bullet irtqueens">7</div>
           <div class="bullet ind8ave">A</div>
-          <div class="station">Jay St - Metrotech</div>
+          <div class="bullet ind8ave">C</div>
+          <div class="bullet ind8ave">E</div>
+          <div class="bullet ind6ave">B</div>
+          <div class="bullet ind6ave">D</div>
+          <div class="bullet ind6ave">F</div>
+          <div class="bullet ind6ave">M</div>
+          <div class="bullet bmtbw">N</div>
+          <div class="bullet bmtbw">Q</div>
+          <div class="bullet bmtbw">R</div>
+          <div class="bullet bmtbw">W</div>
+          <div class="bullet shuttle">S<sup>42</sup></div>
+          <div class="station">A math teacher's vacation spot</div>
         </div>
         <div class="row">
-          <div class="bullet bmtbw">W</div>
-          <div class="train-line">Wack!</div>
+          <div class="bullet ind6ave">B</div><div class="bullet bmtbw">Q</div><div class="bullet shuttle">S<sup>F</sup></div>
+          <div class="station">Prospect Park</div>
         </div>
       <div>
     </div>

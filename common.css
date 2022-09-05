@@ -7,13 +7,24 @@ body {
   border-radius: 0px 20px 0px 20px;
 }
 
-.home-button {
-  border: 1px solid black;
-  border-width: 0px 0px 1px 0px;
+.left-group {
   background-color: rgba(250, 20, 70, 0.5);
   padding: 5px 8px;
   border-radius: 3px 3px 0px 0px;
   font-size: 16px;
+  width: max-content;
+  cursor: pointer;
+}
+.home-button {
+  background-color: unset;
+  border: none;
+  color: rgba(20, 100, 220, 0.9);
+  cursor: pointer;
+}
+
+.left-group hr {
+  color: rgba(20, 100, 220, 0.9);
+  border-color: rgba(20, 100, 220, 0.9);
 }
 
 /* Headers */
@@ -58,9 +69,14 @@ body {
 .ind6ave   { background-color: #ff6115; }
 .irt7ave   { background-color: #f13132; }
 .ind8ave   { background-color: #003ea6; }
-.shuttle   { background-color: #7f8082; }
-.staten    { 
-  background-color: #0079c5;
+.shuttle, .staten {
   font-size: 16px;
-  line-height: 33px;
+}
+.shuttle {
+  background-color: #7f8082;
+  line-height: 28px;
+}
+.staten {
+  background-color: #0079c5;
+  line-height: 32px;
 }
