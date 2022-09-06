@@ -1,0 +1,52 @@
+hr {
+  border-color: rgba(250, 80, 160, 0.8);
+  margin: 0px;
+}
+
+.main-content {
+  background-color: rgba(20, 200, 50, 0.2);
+}
+.main-content-header {
+  color: rgba(250, 80, 160, 0.8);
+}
+.main-content .results {
+  padding: 10px 10px;
+  background-color: rgba(250, 250, 250, 0.3);
+  overflow: scroll;
+  max-height: 380px;
+  border-radius: 20px;
+}
+.main-content .results .row hr {
+  margin: 0% 10% 0% 1%;
+}
+.main-content .results .row .results-section {
+  display: flex;
+  padding: 5px;
+  margin-top: 5px;
+  padding-left: 1em;
+  background-color: rgba(100, 200, 255, 0.2);
+  border-radius: 25px;
+}
+.main-content .results .row .results-section h3 {
+  margin: 0px;
+  line-height: 40px;
+  padding-left: 5px;
+}
+.main-content .results .direction {
+  margin: 8px;
+  margin-left: 1.5em;
+}
+.main-content .results .direction h4 {
+  margin: 0px;
+}
+.main-content .results .direction .display-row {
+  display: flex;
+  padding-left: 8px;
+}
+.main-content .results .direction .display-row .distance {
+  padding-left: 8px;
+  display: flex;
+  line-height: 36px;
+}
+
+/*# sourceMappingURL=view.css.map */

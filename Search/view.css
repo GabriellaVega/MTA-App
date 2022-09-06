@@ -3,30 +3,13 @@ hr {
   margin: 0px;
 }
 
+.main-content {
+  background-color: rgba(240, 140, 250, 0.2);
+}
 .main-content-header {
   color: rgba(20, 160, 255, 0.8);
-  display: flex;
-  justify-content: space-between;
 }
-.main-content-header .title {
-  width: max-content;
-}
-.main-content-header .cta-buttons {
-  background-color: rgba(130, 200, 250, 0.6);
-  border-radius: 2em;
-}
-.main-content-header .cta-buttons button {
-  border: 0px;
-  height: 100%;
-  padding: 1em;
-  background-color: transparent;
-}
-.main-content-header .cta-buttons button:nth-child(1) {
-  background-color: rgba(100, 250, 130, 0.7);
-  border-radius: 2em;
-}
-
-.search-input {
+.main-content .search-input {
   width: 80%;
   margin: 2% 10%;
   height: 40px;
@@ -35,37 +18,29 @@ hr {
   border-bottom-width: 3px;
   border-radius: 0px 5px 2px 2px;
 }
-
-.results {
+.main-content .results {
   overflow: scroll;
   max-height: 380px;
   background-color: rgba(250, 250, 250, 0.5);
   border-radius: 20px;
 }
-.results-section {
+.main-content .results-section {
   padding: 1% 4%;
   background-color: rgba(120, 110, 200, 0.1);
 }
-.results-section-header {
+.main-content .results-section-header {
   margin: 0px;
   padding-left: 0.5em;
   color: rgba(20, 160, 255, 0.8);
   margin-left: 3px;
 }
-.results .row {
+.main-content .results .row {
   display: flex;
   height: 60px;
   padding-left: 1em;
 }
-.results .row .train-line, .results .row .station {
+.main-content .results .row .train-line, .main-content .results .row .station {
   padding: 10px 0px 0px 10px;
-}
-.results .row .train-line {
-  font-style: italic;
-  color: #888;
-}
-.results .row .station {
-  color: #666;
 }
 
 /*# sourceMappingURL=view.css.map */

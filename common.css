@@ -41,10 +41,39 @@ body {
 /* Main content */
 .main-content {
   margin: 2%;
-  background-color: rgba(240, 140, 250, 0.2);
   padding: 2% 8%;
   border-radius: 25px 0px 25px 0px;
   min-height: 20em;
+}
+.main-content-header {
+  display: flex;
+  justify-content: space-between;
+}
+.main-content-header > .title {
+  width: max-content;
+}
+
+.cta-buttons {
+  background-color: rgba(130, 200, 250, 0.6);
+  border-radius: 2em;
+}
+.cta-buttons > button {
+    border: 0px;
+    height: 100%;
+    padding: 1em;
+    background-color: transparent;
+}
+.cta-buttons > button:nth-child(1) {
+  background-color: rgba(100, 250, 130, 0.7);
+  border-radius: 2em;
+}
+
+.results .train-line {
+  font-style: italic;
+  color: #888;
+}
+.results .station {
+  color: #666;
 }
 
 .bullet {
