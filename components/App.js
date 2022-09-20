@@ -1,7 +1,7 @@
-import { StyleSheet, Text, View } from 'react-native';
-import Home from './home';
-import Favorites from './favorites';
-import Search from './search';
+import { View } from 'react-native';
+import Home from './Home';
+import Favorites from './Favorites';
+import Search from './Search';
 import { useState } from 'react';
 
 export default function App() {
@@ -23,14 +23,15 @@ export default function App() {
   return (
     <View>
       <CurrentView setCurrentView={setCurrentView}/>
-    </View>);
+    </View>
+    );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+// const styles = StyleSheet.create({
+//   container: {
+//     flex: 1,
+//     backgroundColor: '#fff',
+//     alignItems: 'center',
+//     justifyContent: 'center',
+//   },
+// });

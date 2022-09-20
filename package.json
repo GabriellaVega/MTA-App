@@ -1,5 +1,5 @@
 {
-  "name": "awesomeproject",
+  "name": "mta-app",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -20,5 +20,16 @@
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
-  "private": true
+  "private": true,
+  "description": "MTA Transit App that allows you to pin frequent stops and transit lines.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabriellaVega/MTA-App.git"
+  },
+  "author": "Gabriella Vega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabriellaVega/MTA-App/issues"
+  },
+  "homepage": "https://github.com/GabriellaVega/MTA-App#readme"
 }

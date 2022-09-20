@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AwesomeProject",
-    "slug": "AwesomeProject",
+    "name": "MTA-App",
+    "slug": "MTA-App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
