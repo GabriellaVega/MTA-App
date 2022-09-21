@@ -6,10 +6,6 @@ export default function Search(props) {
   return (<>
     <HomeButton setCurrentView={props.setCurrentView}/>
     <Container title="Search"/>
-    {props.title === "Search" ? <TextInput
-        style={styles.input} 
-        placeholder="Search for subway lines and stations"
-      /> : null}
   </>
   );
 }
