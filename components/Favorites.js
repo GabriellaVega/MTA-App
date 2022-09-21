@@ -1,10 +1,11 @@
-import { Button, Text } from 'react-native';
-import HomeButton from './HomeButton';
+import { Button, Text } from "react-native";
+import HomeButton from "./HomeButton";
+import Container from "./Container";
 
 export default function Favorites(props) {
   return (<>
     <HomeButton setCurrentView={props.setCurrentView}/>
-    <Text> Here are your favorite transit lines: </Text>
+    <Container title="Favorites" />
     </>
   );
 }
