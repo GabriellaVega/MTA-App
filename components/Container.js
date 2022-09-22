@@ -5,7 +5,8 @@ import SwitchViewButton from "./SwitchViewButton";
 
 export default function Container(props) {
     return (
-    <View style={props.title === "Search" ? styles.searchContainer : styles.favoritesContainer}>
+    <View 
+    style={[styles.container, props.title === "Search" ? styles.searchContainer : styles.favoritesContainer]}>
       <View style={styles.contentHeader}>
         <Text style={styles.title}>{props.title}</Text>
         <SwitchViewButton />
@@ -18,8 +19,7 @@ export default function Container(props) {
 }
 
 const styles = StyleSheet.create({
-    searchContainer: {
-      backgroundColor: "rgba(240, 140, 250, 0.2)",
+    container: {
       padding: 20,
       minHeight: 600,
       minWidth: 600,
@@ -28,13 +28,11 @@ const styles = StyleSheet.create({
       borderTopLeftRadius: 40,
       borderBottomRightRadius: 40
     },
+    searchContainer: {
+      backgroundColor: "rgba(240, 140, 250, 0.2)"
+    },
     favoritesContainer: {
-      backgroundColor: "rgba(20, 200, 50, 0.2)",
-      padding: 20,
-      minHeight: 600,
-      minWidth: 600,
-      marginLeft: 200,
-      marginRight: 200
+      backgroundColor: "rgba(20, 200, 50, 0.2)"
     },
     contentHeader: {
       flexDirection: "row",

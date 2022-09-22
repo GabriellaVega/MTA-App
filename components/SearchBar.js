@@ -5,7 +5,6 @@ export default function SearchBar() {
     const [inputText, setInputText] = useState("");
     function handleChange(event) {
       setInputText(event.target.value)
-      console.log(inputText)
     }
     return (<>
     <TextInput
