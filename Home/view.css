@@ -1,0 +1,70 @@
+body {
+  margin: 2% 6%;
+}
+
+.app-container {
+  background-color: rgba(250, 250, 100, 0.4);
+  padding: 2em;
+  border-radius: 0em 2em 0em 2em;
+}
+.app-container .welcome {
+  margin: 0.4em 4em;
+}
+.app-container .welcome h1, .app-container .welcome h2, .app-container .welcome h3 {
+  margin: 0em;
+  font-family: sans-serif;
+}
+.app-container .welcome .start-text {
+  font-weight: 500;
+  padding-left: 2em;
+}
+.app-container .welcome .main-area {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2em;
+}
+.app-container .welcome .main-area .end-text {
+  display: flex;
+  font-weight: 600;
+}
+.app-container .welcome .main-area .end-text div {
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+  height: min-content;
+  padding-left: 1em;
+  font-size: 1.6em;
+}
+.app-container .welcome .main-area .button-container {
+  display: flex;
+}
+.app-container .welcome .main-area .button-container-inner {
+  display: flex;
+  flex-direction: column;
+}
+.app-container .welcome .main-area .button-container-inner .view-button {
+  height: 2em;
+  font-size: 2em;
+  font-weight: 500;
+  padding: 0em 1em;
+  border-radius: 2em;
+  width: 10em;
+  margin: 10px;
+}
+.app-container .welcome .main-area .button-container-inner .view-button.favorites {
+  background-color: rgba(20, 200, 50, 0.2);
+  border-color: rgba(0, 160, 20, 0.5);
+  color: rgba(250, 80, 160, 0.8);
+}
+.app-container .welcome .main-area .button-container-inner .view-button.search {
+  background-color: rgba(240, 140, 250, 0.2);
+  border-color: rgba(210, 120, 220, 0.5);
+  color: rgba(20, 160, 255, 0.8);
+}
+.app-container .footer {
+  position: fixed;
+  bottom: 10px;
+  right: 10%;
+  font-family: sans-serif;
+}
+
+/*# sourceMappingURL=view.css.map */
