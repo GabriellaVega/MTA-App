@@ -1,9 +1,17 @@
 require("dotenv").config()
 const express = require("express");
 const https = require("https");
+const GtfsRealtimeBindings = require("gtfs-realtime-bindings");
 const bodyParser = require("body-parser");
-var GtfsRealtimeBindings = require('gtfs-realtime-bindings');
-const request = require("request");
+const Redis = require("redis")
+
+
+const client = Redis.createClient()
+client.on('error', (err) => console.log('Redis Client Error', err));
+
+// await client.connect();
+
+
 
 const server = express();
 server.use(bodyParser.urlencoded({extended:true}));
@@ -15,19 +23,22 @@ server.get("/", function(req, res) {
     https.get(url, { headers: { "x-api-key": apiKey}}, (resp) => {
         console.log(resp.statusCode);
         var data = [];
-        resp.on('data', (chunk) => {
+        resp.on("data", (chunk) => {
           console.log("Receiving Data");
           data.push(chunk)
         });
-        resp.on('end', () => {
+        resp.on("end", () => {
             console.log("Finished receiving data");
             data = Buffer.concat(data);
             var feed = GtfsRealtimeBindings.transit_realtime.FeedMessage.decode(data);
             feed.entity.forEach(function(entity) {
-                console.log(entity);
-                if (entity.trip_update) {
-                    console.log(entity.trip_update);
-                }
+                // console.log(entity);
+                console.log(entity.vehicle)
+                // if (entity.trip_update) {
+                //     console.log(entity.trip_update);
+                //     console.log()
+                // }
+                
             });
         });
       }).on("error", (err) => {
