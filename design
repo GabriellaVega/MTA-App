@@ -1,11 +1,13 @@
 Redis Database Organization
-- key => train stop
-- value => HASHMAP (of size 3)
+- key => train stop (GTFS Stop ID)
+- value => HASHMAP
 
 
 HASHMAP
 - key => train line (ex: A, 3, etc)
-- value => how far the train is (in minutes)
+- value => (Daytime Routes)
+
+- key => 
 - notes: 
     - refresh MTA Real-time data every minute
 
