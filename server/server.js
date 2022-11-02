@@ -17,8 +17,8 @@ const url = "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-
 server.get("/", function(req, res) {
   console.log("here");
 })
-// server.get("/:stop", function(req, res) {
-//   // console.log(req.params.stop)
+// server.get("getTrains/:stopID", function(req, res) {
+//   // console.log(req.params.stopID)
 //   console.log("here")
 //   client.hgetall(req.params.stop, function(err, object) {
 //     if (err) {
