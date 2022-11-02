@@ -5,10 +5,12 @@ from dotenv import load_dotenv
 import redis
 import time
 
+# Add the vehicle to the database using its unique trip ID
 def update_vehicles(stop_id, arrivalTime, trip_id):
     r.zadd(stop_id, {trip_id: arrivalTime})
     return
 
+# Calculate how far the train is in minutes
 def getMinutes(arrivalTime, currentTime):
     epochSecondsAway = arrivalTime - currentTime
     h, m = time.strftime("%H:%M", time.gmtime(epochSecondsAway)).split(":")
@@ -36,7 +38,3 @@ for suffix in suffixes:
                 update_vehicles(stop_time_update.stop_id, minutesAway, entity.trip_update.trip.trip_id)
         
 # code.interact(local=locals())
-
-
-
-

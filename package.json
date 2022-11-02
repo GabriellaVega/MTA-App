@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "mta-app",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
@@ -20,7 +21,7 @@
     "react-dom": "17.0.2",
     "react-native": "0.68.2",
     "react-native-web": "0.17.7",
-    "redis": "^4.3.1",
+    "redis": "^4.4.0",
     "request": "^2.88.2"
   },
   "devDependencies": {
