@@ -1,10 +1,23 @@
 import { View } from 'react-native';
-import Home from './Home';
-import Favorites from './Favorites';
-import Search from './Search';
+import Home from './views/Home';
+import Favorites from './views/Favorites';
+import Search from './views/Search';
 import { useState } from 'react';
+import axios from "axios";
 
 export default function App() {
+
+  const fetchApi = async () => {
+    try {
+      const res = await axios.get("http://192.168.1.155:3000/");
+      console.log(res.data);
+    } catch (error) {
+      console.log(error.message);
+    }
+  }
+
+
+
   const [currentViewString, setCurrentView] = useState("home");
   let CurrentView;
   switch (currentViewString) {
