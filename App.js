@@ -3,21 +3,28 @@ import Home from './views/Home';
 import Favorites from './views/Favorites';
 import Search from './views/Search';
 import { useState } from 'react';
-import axios from "axios";
+
+async function getData() {
+  try {
+    const response = await fetch('http://localhost:3000', {
+      request: "GET"
+    })
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! Status: ${response.status}`);
+      }
+      return response.blob();
+    })
+  } catch (error) {
+    console.log(error);
+  }
+}
 
 export default function App() {
 
-  const fetchApi = async () => {
-    try {
-      const res = await axios.get("http://192.168.1.155:3000/");
-      console.log(res.data);
-    } catch (error) {
-      console.log(error.message);
-    }
-  }
-
-
-
+  getData().then((response) => {
+    console.log(response);
+  });
   const [currentViewString, setCurrentView] = useState("home");
   let CurrentView;
   switch (currentViewString) {
@@ -39,12 +46,3 @@ export default function App() {
     </View>
     );
 }
-
-// const styles = StyleSheet.create({
-//   container: {
-//     flex: 1,
-//     backgroundColor: '#fff',
-//     alignItems: 'center',
-//     justifyContent: 'center',
-//   },
-// });

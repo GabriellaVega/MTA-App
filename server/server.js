@@ -1,5 +1,6 @@
 import express from "express";
 import { createClient } from "redis";
+import cors from "cors";
 
 const client = createClient({
   database: 1
@@ -11,8 +12,11 @@ await client.connect();
 
 const app = express();
 
+app.use(cors());
+
 app.get("/", function(req, res) {
-  res.send("App");
+  console.log("ur in");
+  res.send("You are connected!");
 })
 
 app.get("/getTrains/:stopID", async function(req, res) {
