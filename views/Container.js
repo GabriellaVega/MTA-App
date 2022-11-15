@@ -1,5 +1,4 @@
 import { View, Text, TextInput, StyleSheet, Pressable } from "react-native";
-import { useState } from "react";
 import SearchBar from "./search/SearchBar";
 import SwitchViewButton from "./SwitchViewButton";
 

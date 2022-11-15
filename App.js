@@ -6,7 +6,8 @@ import { useState } from 'react';
 
 async function getData() {
   try {
-    const response = await fetch('http://localhost:3000/getTrains/R01N', {
+    const url = "http://localhost:3000";
+    const response = await fetch(url + "/getTrains/R01N", {
       request: "GET"
     })
     .then((res) => {

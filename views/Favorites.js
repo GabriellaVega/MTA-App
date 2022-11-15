@@ -1,4 +1,4 @@
-import { Button, Text, StyleSheet } from "react-native";
+import { StyleSheet } from "react-native";
 import HomeButton from "./HomeButton";
 import Container from "./Container";
 
