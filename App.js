@@ -1,19 +1,21 @@
 import { View } from 'react-native';
 import Home from './views/Home';
 import Favorites from './views/Favorites';
-import Search from './views/Search';
+import Search from './views/search/Search';
 import { useState } from 'react';
 
 async function getData() {
   try {
-    const response = await fetch('http://localhost:3000', {
+    const response = await fetch('http://localhost:3000/getTrains/R01N', {
       request: "GET"
     })
-    .then((response) => {
-      if (!response.ok) {
-        throw new Error(`HTTP error! Status: ${response.status}`);
+    .then((res) => {
+      if (!res.ok) {
+        throw new Error(`HTTP error! Status: ${res.status}`);
       }
-      return response.blob();
+      return res.json();
+    }).then((data) => {
+      console.log(data);
     })
   } catch (error) {
     console.log(error);

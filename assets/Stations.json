@@ -1,0 +1,2482 @@
+[
+    {
+        "GTFS Stop ID": "R01",
+        "Stop Name": "Astoria-Ditmars Blvd",
+        "Daytime Routes": "N W"
+    },
+    {
+        "GTFS Stop ID": "R03",
+        "Stop Name": "Astoria Blvd",
+        "Daytime Routes": "N W"
+    },
+    {
+        "GTFS Stop ID": "R04",
+        "Stop Name": "30 Av",
+        "Daytime Routes": "N W"
+    },
+    {
+        "GTFS Stop ID": "R05",
+        "Stop Name": "Broadway",
+        "Daytime Routes": "N W"
+    },
+    {
+        "GTFS Stop ID": "R06",
+        "Stop Name": "36 Av",
+        "Daytime Routes": "N W"
+    },
+    {
+        "GTFS Stop ID": "R08",
+        "Stop Name": "39 Av-Dutch Kills",
+        "Daytime Routes": "N W"
+    },
+    {
+        "GTFS Stop ID": "R11",
+        "Stop Name": "Lexington Av/59 St",
+        "Daytime Routes": "N W R"
+    },
+    {
+        "GTFS Stop ID": "R13",
+        "Stop Name": "5 Av/59 St",
+        "Daytime Routes": "N W R"
+    },
+    {
+        "GTFS Stop ID": "R14",
+        "Stop Name": "57 St-7 Av",
+        "Daytime Routes": "N Q R W"
+    },
+    {
+        "GTFS Stop ID": "R15",
+        "Stop Name": "49 St",
+        "Daytime Routes": "N R W"
+    },
+    {
+        "GTFS Stop ID": "R16",
+        "Stop Name": "Times Sq-42 St",
+        "Daytime Routes": "N Q R W"
+    },
+    {
+        "GTFS Stop ID": "R17",
+        "Stop Name": "34 St-Herald Sq",
+        "Daytime Routes": "N Q R W"
+    },
+    {
+        "GTFS Stop ID": "R18",
+        "Stop Name": "28 St",
+        "Daytime Routes": "R W"
+    },
+    {
+        "GTFS Stop ID": "R19",
+        "Stop Name": "23 St",
+        "Daytime Routes": "R W"
+    },
+    {
+        "GTFS Stop ID": "R20",
+        "Stop Name": "14 St-Union Sq",
+        "Daytime Routes": "N Q R W"
+    },
+    {
+        "GTFS Stop ID": "R21",
+        "Stop Name": "8 St-NYU",
+        "Daytime Routes": "R W"
+    },
+    {
+        "GTFS Stop ID": "R22",
+        "Stop Name": "Prince St",
+        "Daytime Routes": "R W"
+    },
+    {
+        "GTFS Stop ID": "R23",
+        "Stop Name": "Canal St",
+        "Daytime Routes": "R W"
+    },
+    {
+        "GTFS Stop ID": "Q01",
+        "Stop Name": "Canal St",
+        "Daytime Routes": "N Q"
+    },
+    {
+        "GTFS Stop ID": "R24",
+        "Stop Name": "City Hall",
+        "Daytime Routes": "R W"
+    },
+    {
+        "GTFS Stop ID": "R25",
+        "Stop Name": "Cortlandt St",
+        "Daytime Routes": "R W"
+    },
+    {
+        "GTFS Stop ID": "R26",
+        "Stop Name": "Rector St",
+        "Daytime Routes": "R W"
+    },
+    {
+        "GTFS Stop ID": "R27",
+        "Stop Name": "Whitehall St-South Ferry",
+        "Daytime Routes": "R W"
+    },
+    {
+        "GTFS Stop ID": "R28",
+        "Stop Name": "Court St",
+        "Daytime Routes": "R"
+    },
+    {
+        "GTFS Stop ID": "R29",
+        "Stop Name": "Jay St-MetroTech",
+        "Daytime Routes": "R"
+    },
+    {
+        "GTFS Stop ID": "R30",
+        "Stop Name": "DeKalb Av",
+        "Daytime Routes": "B Q R"
+    },
+    {
+        "GTFS Stop ID": "R31",
+        "Stop Name": "Atlantic Av-Barclays Ctr",
+        "Daytime Routes": "D N R"
+    },
+    {
+        "GTFS Stop ID": "R32",
+        "Stop Name": "Union St",
+        "Daytime Routes": "R"
+    },
+    {
+        "GTFS Stop ID": "R33",
+        "Stop Name": "4 Av-9 St",
+        "Daytime Routes": "R"
+    },
+    {
+        "GTFS Stop ID": "R34",
+        "Stop Name": "Prospect Av",
+        "Daytime Routes": "R"
+    },
+    {
+        "GTFS Stop ID": "R35",
+        "Stop Name": "25 St",
+        "Daytime Routes": "R"
+    },
+    {
+        "GTFS Stop ID": "R36",
+        "Stop Name": "36 St",
+        "Daytime Routes": "D N R"
+    },
+    {
+        "GTFS Stop ID": "R39",
+        "Stop Name": "45 St",
+        "Daytime Routes": "R"
+    },
+    {
+        "GTFS Stop ID": "R40",
+        "Stop Name": "53 St",
+        "Daytime Routes": "R"
+    },
+    {
+        "GTFS Stop ID": "R41",
+        "Stop Name": "59 St",
+        "Daytime Routes": "N R"
+    },
+    {
+        "GTFS Stop ID": "R42",
+        "Stop Name": "Bay Ridge Av",
+        "Daytime Routes": "R"
+    },
+    {
+        "GTFS Stop ID": "R43",
+        "Stop Name": "77 St",
+        "Daytime Routes": "R"
+    },
+    {
+        "GTFS Stop ID": "R44",
+        "Stop Name": "86 St",
+        "Daytime Routes": "R"
+    },
+    {
+        "GTFS Stop ID": "R45",
+        "Stop Name": "Bay Ridge-95 St",
+        "Daytime Routes": "R"
+    },
+    {
+        "GTFS Stop ID": "D24",
+        "Stop Name": "Atlantic Av-Barclays Ctr",
+        "Daytime Routes": "B Q"
+    },
+    {
+        "GTFS Stop ID": "D25",
+        "Stop Name": "7 Av",
+        "Daytime Routes": "B Q"
+    },
+    {
+        "GTFS Stop ID": "D26",
+        "Stop Name": "Prospect Park",
+        "Daytime Routes": "B Q S"
+    },
+    {
+        "GTFS Stop ID": "D27",
+        "Stop Name": "Parkside Av",
+        "Daytime Routes": "Q"
+    },
+    {
+        "GTFS Stop ID": "D28",
+        "Stop Name": "Church Av",
+        "Daytime Routes": "B Q"
+    },
+    {
+        "GTFS Stop ID": "D29",
+        "Stop Name": "Beverley Rd",
+        "Daytime Routes": "Q"
+    },
+    {
+        "GTFS Stop ID": "D30",
+        "Stop Name": "Cortelyou Rd",
+        "Daytime Routes": "Q"
+    },
+    {
+        "GTFS Stop ID": "D31",
+        "Stop Name": "Newkirk Plaza",
+        "Daytime Routes": "B Q"
+    },
+    {
+        "GTFS Stop ID": "D32",
+        "Stop Name": "Avenue H",
+        "Daytime Routes": "Q"
+    },
+    {
+        "GTFS Stop ID": "D33",
+        "Stop Name": "Avenue J",
+        "Daytime Routes": "Q"
+    },
+    {
+        "GTFS Stop ID": "D34",
+        "Stop Name": "Avenue M",
+        "Daytime Routes": "Q"
+    },
+    {
+        "GTFS Stop ID": "D35",
+        "Stop Name": "Kings Hwy",
+        "Daytime Routes": "B Q"
+    },
+    {
+        "GTFS Stop ID": "D37",
+        "Stop Name": "Avenue U",
+        "Daytime Routes": "Q"
+    },
+    {
+        "GTFS Stop ID": "D38",
+        "Stop Name": "Neck Rd",
+        "Daytime Routes": "Q"
+    },
+    {
+        "GTFS Stop ID": "D39",
+        "Stop Name": "Sheepshead Bay",
+        "Daytime Routes": "B Q"
+    },
+    {
+        "GTFS Stop ID": "D40",
+        "Stop Name": "Brighton Beach",
+        "Daytime Routes": "B Q"
+    },
+    {
+        "GTFS Stop ID": "D41",
+        "Stop Name": "Ocean Pkwy",
+        "Daytime Routes": "Q"
+    },
+    {
+        "GTFS Stop ID": "D42",
+        "Stop Name": "W 8 St-NY Aquarium",
+        "Daytime Routes": "F Q"
+    },
+    {
+        "GTFS Stop ID": "D43",
+        "Stop Name": "Coney Island-Stillwell Av",
+        "Daytime Routes": "D F N Q"
+    },
+    {
+        "GTFS Stop ID": "B12",
+        "Stop Name": "9 Av",
+        "Daytime Routes": "D"
+    },
+    {
+        "GTFS Stop ID": "B13",
+        "Stop Name": "Fort Hamilton Pkwy",
+        "Daytime Routes": "D"
+    },
+    {
+        "GTFS Stop ID": "B14",
+        "Stop Name": "50 St",
+        "Daytime Routes": "D"
+    },
+    {
+        "GTFS Stop ID": "B15",
+        "Stop Name": "55 St",
+        "Daytime Routes": "D"
+    },
+    {
+        "GTFS Stop ID": "B16",
+        "Stop Name": "62 St",
+        "Daytime Routes": "D"
+    },
+    {
+        "GTFS Stop ID": "B17",
+        "Stop Name": "71 St",
+        "Daytime Routes": "D"
+    },
+    {
+        "GTFS Stop ID": "B18",
+        "Stop Name": "79 St",
+        "Daytime Routes": "D"
+    },
+    {
+        "GTFS Stop ID": "B19",
+        "Stop Name": "18 Av",
+        "Daytime Routes": "D"
+    },
+    {
+        "GTFS Stop ID": "B20",
+        "Stop Name": "20 Av",
+        "Daytime Routes": "D"
+    },
+    {
+        "GTFS Stop ID": "B21",
+        "Stop Name": "Bay Pkwy",
+        "Daytime Routes": "D"
+    },
+    {
+        "GTFS Stop ID": "B22",
+        "Stop Name": "25 Av",
+        "Daytime Routes": "D"
+    },
+    {
+        "GTFS Stop ID": "B23",
+        "Stop Name": "Bay 50 St",
+        "Daytime Routes": "D"
+    },
+    {
+        "GTFS Stop ID": "N02",
+        "Stop Name": "8 Av",
+        "Daytime Routes": "N"
+    },
+    {
+        "GTFS Stop ID": "N03",
+        "Stop Name": "Fort Hamilton Pkwy",
+        "Daytime Routes": "N"
+    },
+    {
+        "GTFS Stop ID": "N04",
+        "Stop Name": "New Utrecht Av",
+        "Daytime Routes": "N"
+    },
+    {
+        "GTFS Stop ID": "N05",
+        "Stop Name": "18 Av",
+        "Daytime Routes": "N"
+    },
+    {
+        "GTFS Stop ID": "N06",
+        "Stop Name": "20 Av",
+        "Daytime Routes": "N"
+    },
+    {
+        "GTFS Stop ID": "N07",
+        "Stop Name": "Bay Pkwy",
+        "Daytime Routes": "N"
+    },
+    {
+        "GTFS Stop ID": "N08",
+        "Stop Name": "Kings Hwy",
+        "Daytime Routes": "N"
+    },
+    {
+        "GTFS Stop ID": "N09",
+        "Stop Name": "Avenue U",
+        "Daytime Routes": "N"
+    },
+    {
+        "GTFS Stop ID": "N10",
+        "Stop Name": "86 St",
+        "Daytime Routes": "N"
+    },
+    {
+        "GTFS Stop ID": "J12",
+        "Stop Name": "121 St",
+        "Daytime Routes": "J Z"
+    },
+    {
+        "GTFS Stop ID": "J13",
+        "Stop Name": "111 St",
+        "Daytime Routes": "J"
+    },
+    {
+        "GTFS Stop ID": "J14",
+        "Stop Name": "104 St",
+        "Daytime Routes": "J Z"
+    },
+    {
+        "GTFS Stop ID": "J15",
+        "Stop Name": "Woodhaven Blvd",
+        "Daytime Routes": "J Z"
+    },
+    {
+        "GTFS Stop ID": "J16",
+        "Stop Name": "85 St-Forest Pkwy",
+        "Daytime Routes": "J"
+    },
+    {
+        "GTFS Stop ID": "J17",
+        "Stop Name": "75 St-Elderts Ln",
+        "Daytime Routes": "J Z"
+    },
+    {
+        "GTFS Stop ID": "J19",
+        "Stop Name": "Cypress Hills",
+        "Daytime Routes": "J"
+    },
+    {
+        "GTFS Stop ID": "J20",
+        "Stop Name": "Crescent St",
+        "Daytime Routes": "J Z"
+    },
+    {
+        "GTFS Stop ID": "J21",
+        "Stop Name": "Norwood Av",
+        "Daytime Routes": "J Z"
+    },
+    {
+        "GTFS Stop ID": "J22",
+        "Stop Name": "Cleveland St",
+        "Daytime Routes": "J"
+    },
+    {
+        "GTFS Stop ID": "J23",
+        "Stop Name": "Van Siclen Av",
+        "Daytime Routes": "J Z"
+    },
+    {
+        "GTFS Stop ID": "J24",
+        "Stop Name": "Alabama Av",
+        "Daytime Routes": "J"
+    },
+    {
+        "GTFS Stop ID": "J27",
+        "Stop Name": "Broadway Junction",
+        "Daytime Routes": "J Z"
+    },
+    {
+        "GTFS Stop ID": "J28",
+        "Stop Name": "Chauncey St",
+        "Daytime Routes": "J Z"
+    },
+    {
+        "GTFS Stop ID": "J29",
+        "Stop Name": "Halsey St",
+        "Daytime Routes": "J"
+    },
+    {
+        "GTFS Stop ID": "J30",
+        "Stop Name": "Gates Av",
+        "Daytime Routes": "J Z"
+    },
+    {
+        "GTFS Stop ID": "J31",
+        "Stop Name": "Kosciuszko St",
+        "Daytime Routes": "J"
+    },
+    {
+        "GTFS Stop ID": "M11",
+        "Stop Name": "Myrtle Av",
+        "Daytime Routes": "J M Z"
+    },
+    {
+        "GTFS Stop ID": "M12",
+        "Stop Name": "Flushing Av",
+        "Daytime Routes": "J M"
+    },
+    {
+        "GTFS Stop ID": "M13",
+        "Stop Name": "Lorimer St",
+        "Daytime Routes": "J M"
+    },
+    {
+        "GTFS Stop ID": "M14",
+        "Stop Name": "Hewes St",
+        "Daytime Routes": "J M"
+    },
+    {
+        "GTFS Stop ID": "M16",
+        "Stop Name": "Marcy Av",
+        "Daytime Routes": "J M Z"
+    },
+    {
+        "GTFS Stop ID": "M18",
+        "Stop Name": "Delancey St-Essex St",
+        "Daytime Routes": "J M Z"
+    },
+    {
+        "GTFS Stop ID": "M19",
+        "Stop Name": "Bowery",
+        "Daytime Routes": "J Z"
+    },
+    {
+        "GTFS Stop ID": "M20",
+        "Stop Name": "Canal St",
+        "Daytime Routes": "J Z"
+    },
+    {
+        "GTFS Stop ID": "M21",
+        "Stop Name": "Chambers St",
+        "Daytime Routes": "J Z"
+    },
+    {
+        "GTFS Stop ID": "M22",
+        "Stop Name": "Fulton St",
+        "Daytime Routes": "J Z"
+    },
+    {
+        "GTFS Stop ID": "M23",
+        "Stop Name": "Broad St",
+        "Daytime Routes": "J Z"
+    },
+    {
+        "GTFS Stop ID": "M01",
+        "Stop Name": "Middle Village-Metropolitan Av",
+        "Daytime Routes": "M"
+    },
+    {
+        "GTFS Stop ID": "M04",
+        "Stop Name": "Fresh Pond Rd",
+        "Daytime Routes": "M"
+    },
+    {
+        "GTFS Stop ID": "M05",
+        "Stop Name": "Forest Av",
+        "Daytime Routes": "M"
+    },
+    {
+        "GTFS Stop ID": "M06",
+        "Stop Name": "Seneca Av",
+        "Daytime Routes": "M"
+    },
+    {
+        "GTFS Stop ID": "M08",
+        "Stop Name": "Myrtle-Wyckoff Avs",
+        "Daytime Routes": "M"
+    },
+    {
+        "GTFS Stop ID": "M09",
+        "Stop Name": "Knickerbocker Av",
+        "Daytime Routes": "M"
+    },
+    {
+        "GTFS Stop ID": "M10",
+        "Stop Name": "Central Av",
+        "Daytime Routes": "M"
+    },
+    {
+        "GTFS Stop ID": "L01",
+        "Stop Name": "8 Av",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L02",
+        "Stop Name": "6 Av",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L03",
+        "Stop Name": "14 St-Union Sq.",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L05",
+        "Stop Name": "3 Av",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L06",
+        "Stop Name": "1 Av",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L08",
+        "Stop Name": "Bedford Av",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L10",
+        "Stop Name": "Lorimer St",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L11",
+        "Stop Name": "Graham Av",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L12",
+        "Stop Name": "Grand St",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L13",
+        "Stop Name": "Montrose Av",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L14",
+        "Stop Name": "Morgan Av",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L15",
+        "Stop Name": "Jefferson St",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L16",
+        "Stop Name": "DeKalb Av",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L17",
+        "Stop Name": "Myrtle-Wyckoff Avs",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L19",
+        "Stop Name": "Halsey St",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L20",
+        "Stop Name": "Wilson Av",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L21",
+        "Stop Name": "Bushwick Av-Aberdeen St",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L22",
+        "Stop Name": "Broadway Junction",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L24",
+        "Stop Name": "Atlantic Av",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L25",
+        "Stop Name": "Sutter Av",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L26",
+        "Stop Name": "Livonia Av",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L27",
+        "Stop Name": "New Lots Av",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L28",
+        "Stop Name": "East 105 St",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "L29",
+        "Stop Name": "Canarsie-Rockaway Pkwy",
+        "Daytime Routes": "L"
+    },
+    {
+        "GTFS Stop ID": "S01",
+        "Stop Name": "Franklin Av",
+        "Daytime Routes": "S"
+    },
+    {
+        "GTFS Stop ID": "S03",
+        "Stop Name": "Park Pl",
+        "Daytime Routes": "S"
+    },
+    {
+        "GTFS Stop ID": "S04",
+        "Stop Name": "Botanic Garden",
+        "Daytime Routes": "S"
+    },
+    {
+        "GTFS Stop ID": "A02",
+        "Stop Name": "Inwood-207 St",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "A03",
+        "Stop Name": "Dyckman St",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "A05",
+        "Stop Name": "190 St",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "A06",
+        "Stop Name": "181 St",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "A07",
+        "Stop Name": "175 St",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "A09",
+        "Stop Name": "168 St",
+        "Daytime Routes": "A C"
+    },
+    {
+        "GTFS Stop ID": "A10",
+        "Stop Name": "163 St-Amsterdam Av",
+        "Daytime Routes": "C"
+    },
+    {
+        "GTFS Stop ID": "A11",
+        "Stop Name": "155 St",
+        "Daytime Routes": "C"
+    },
+    {
+        "GTFS Stop ID": "A12",
+        "Stop Name": "145 St",
+        "Daytime Routes": "A C"
+    },
+    {
+        "GTFS Stop ID": "D13",
+        "Stop Name": "145 St",
+        "Daytime Routes": "B D"
+    },
+    {
+        "GTFS Stop ID": "A14",
+        "Stop Name": "135 St",
+        "Daytime Routes": "B C"
+    },
+    {
+        "GTFS Stop ID": "A15",
+        "Stop Name": "125 St",
+        "Daytime Routes": "A B C D"
+    },
+    {
+        "GTFS Stop ID": "A16",
+        "Stop Name": "116 St",
+        "Daytime Routes": "B C"
+    },
+    {
+        "GTFS Stop ID": "A17",
+        "Stop Name": "Cathedral Pkwy (110 St)",
+        "Daytime Routes": "B C"
+    },
+    {
+        "GTFS Stop ID": "A18",
+        "Stop Name": "103 St",
+        "Daytime Routes": "B C"
+    },
+    {
+        "GTFS Stop ID": "A19",
+        "Stop Name": "96 St",
+        "Daytime Routes": "B C"
+    },
+    {
+        "GTFS Stop ID": "A20",
+        "Stop Name": "86 St",
+        "Daytime Routes": "B C"
+    },
+    {
+        "GTFS Stop ID": "A21",
+        "Stop Name": "81 St-Museum of Natural History",
+        "Daytime Routes": "B C"
+    },
+    {
+        "GTFS Stop ID": "A22",
+        "Stop Name": "72 St",
+        "Daytime Routes": "B C"
+    },
+    {
+        "GTFS Stop ID": "A24",
+        "Stop Name": "59 St-Columbus Circle",
+        "Daytime Routes": "A B C D"
+    },
+    {
+        "GTFS Stop ID": "A25",
+        "Stop Name": "50 St",
+        "Daytime Routes": "C E"
+    },
+    {
+        "GTFS Stop ID": "A27",
+        "Stop Name": "42 St-Port Authority Bus Terminal",
+        "Daytime Routes": "A C E"
+    },
+    {
+        "GTFS Stop ID": "A28",
+        "Stop Name": "34 St-Penn Station",
+        "Daytime Routes": "A C E"
+    },
+    {
+        "GTFS Stop ID": "A30",
+        "Stop Name": "23 St",
+        "Daytime Routes": "C E"
+    },
+    {
+        "GTFS Stop ID": "A31",
+        "Stop Name": "14 St",
+        "Daytime Routes": "A C E"
+    },
+    {
+        "GTFS Stop ID": "A32",
+        "Stop Name": "W 4 St-Wash Sq",
+        "Daytime Routes": "A C E"
+    },
+    {
+        "GTFS Stop ID": "D20",
+        "Stop Name": "W 4 St-Wash Sq",
+        "Daytime Routes": "B D F M"
+    },
+    {
+        "GTFS Stop ID": "A33",
+        "Stop Name": "Spring St",
+        "Daytime Routes": "C E"
+    },
+    {
+        "GTFS Stop ID": "A34",
+        "Stop Name": "Canal St",
+        "Daytime Routes": "A C E"
+    },
+    {
+        "GTFS Stop ID": "A36",
+        "Stop Name": "Chambers St",
+        "Daytime Routes": "A C"
+    },
+    {
+        "GTFS Stop ID": "E01",
+        "Stop Name": "World Trade Center",
+        "Daytime Routes": "E"
+    },
+    {
+        "GTFS Stop ID": "A38",
+        "Stop Name": "Fulton St",
+        "Daytime Routes": "A C"
+    },
+    {
+        "GTFS Stop ID": "A40",
+        "Stop Name": "High St",
+        "Daytime Routes": "A C"
+    },
+    {
+        "GTFS Stop ID": "A41",
+        "Stop Name": "Jay St-MetroTech",
+        "Daytime Routes": "A C F"
+    },
+    {
+        "GTFS Stop ID": "A42",
+        "Stop Name": "Hoyt-Schermerhorn Sts",
+        "Daytime Routes": "A C G"
+    },
+    {
+        "GTFS Stop ID": "A43",
+        "Stop Name": "Lafayette Av",
+        "Daytime Routes": "C"
+    },
+    {
+        "GTFS Stop ID": "A44",
+        "Stop Name": "Clinton-Washington Avs",
+        "Daytime Routes": "C"
+    },
+    {
+        "GTFS Stop ID": "A45",
+        "Stop Name": "Franklin Av",
+        "Daytime Routes": "C"
+    },
+    {
+        "GTFS Stop ID": "A46",
+        "Stop Name": "Nostrand Av",
+        "Daytime Routes": "A C"
+    },
+    {
+        "GTFS Stop ID": "A47",
+        "Stop Name": "Kingston-Throop Avs",
+        "Daytime Routes": "C"
+    },
+    {
+        "GTFS Stop ID": "A48",
+        "Stop Name": "Utica Av",
+        "Daytime Routes": "A C"
+    },
+    {
+        "GTFS Stop ID": "A49",
+        "Stop Name": "Ralph Av",
+        "Daytime Routes": "C"
+    },
+    {
+        "GTFS Stop ID": "A50",
+        "Stop Name": "Rockaway Av",
+        "Daytime Routes": "C"
+    },
+    {
+        "GTFS Stop ID": "A51",
+        "Stop Name": "Broadway Junction",
+        "Daytime Routes": "A C"
+    },
+    {
+        "GTFS Stop ID": "A52",
+        "Stop Name": "Liberty Av",
+        "Daytime Routes": "C"
+    },
+    {
+        "GTFS Stop ID": "A53",
+        "Stop Name": "Van Siclen Av",
+        "Daytime Routes": "C"
+    },
+    {
+        "GTFS Stop ID": "A54",
+        "Stop Name": "Shepherd Av",
+        "Daytime Routes": "C"
+    },
+    {
+        "GTFS Stop ID": "A55",
+        "Stop Name": "Euclid Av",
+        "Daytime Routes": "A C"
+    },
+    {
+        "GTFS Stop ID": "A57",
+        "Stop Name": "Grant Av",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "A59",
+        "Stop Name": "80 St",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "A60",
+        "Stop Name": "88 St",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "A61",
+        "Stop Name": "Rockaway Blvd",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "A63",
+        "Stop Name": "104 St",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "A64",
+        "Stop Name": "111 St",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "A65",
+        "Stop Name": "Ozone Park-Lefferts Blvd",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "H01",
+        "Stop Name": "Aqueduct Racetrack",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "H02",
+        "Stop Name": "Aqueduct-N Conduit Av",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "H03",
+        "Stop Name": "Howard Beach-JFK Airport",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "H04",
+        "Stop Name": "Broad Channel",
+        "Daytime Routes": "A S"
+    },
+    {
+        "GTFS Stop ID": "H12",
+        "Stop Name": "Beach 90 St",
+        "Daytime Routes": "A S"
+    },
+    {
+        "GTFS Stop ID": "H13",
+        "Stop Name": "Beach 98 St",
+        "Daytime Routes": "A S"
+    },
+    {
+        "GTFS Stop ID": "H14",
+        "Stop Name": "Beach 105 St",
+        "Daytime Routes": "A S"
+    },
+    {
+        "GTFS Stop ID": "H15",
+        "Stop Name": "Rockaway Park-Beach 116 St",
+        "Daytime Routes": "A S"
+    },
+    {
+        "GTFS Stop ID": "H06",
+        "Stop Name": "Beach 67 St",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "H07",
+        "Stop Name": "Beach 60 St",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "H08",
+        "Stop Name": "Beach 44 St",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "H09",
+        "Stop Name": "Beach 36 St",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "H10",
+        "Stop Name": "Beach 25 St",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "H11",
+        "Stop Name": "Far Rockaway-Mott Av",
+        "Daytime Routes": "A"
+    },
+    {
+        "GTFS Stop ID": "D01",
+        "Stop Name": "Norwood-205 St",
+        "Daytime Routes": "D"
+    },
+    {
+        "GTFS Stop ID": "D03",
+        "Stop Name": "Bedford Park Blvd",
+        "Daytime Routes": "B D"
+    },
+    {
+        "GTFS Stop ID": "D04",
+        "Stop Name": "Kingsbridge Rd",
+        "Daytime Routes": "B D"
+    },
+    {
+        "GTFS Stop ID": "D05",
+        "Stop Name": "Fordham Rd",
+        "Daytime Routes": "B D"
+    },
+    {
+        "GTFS Stop ID": "D06",
+        "Stop Name": "182-183 Sts",
+        "Daytime Routes": "B D"
+    },
+    {
+        "GTFS Stop ID": "D07",
+        "Stop Name": "Tremont Av",
+        "Daytime Routes": "B D"
+    },
+    {
+        "GTFS Stop ID": "D08",
+        "Stop Name": "174-175 Sts",
+        "Daytime Routes": "B D"
+    },
+    {
+        "GTFS Stop ID": "D09",
+        "Stop Name": "170 St",
+        "Daytime Routes": "B D"
+    },
+    {
+        "GTFS Stop ID": "D10",
+        "Stop Name": "167 St",
+        "Daytime Routes": "B D"
+    },
+    {
+        "GTFS Stop ID": "D11",
+        "Stop Name": "161 St-Yankee Stadium",
+        "Daytime Routes": "B D"
+    },
+    {
+        "GTFS Stop ID": "D12",
+        "Stop Name": "155 St",
+        "Daytime Routes": "B D"
+    },
+    {
+        "GTFS Stop ID": "B04",
+        "Stop Name": "21 St-Queensbridge",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "B06",
+        "Stop Name": "Roosevelt Island",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "B08",
+        "Stop Name": "Lexington Av/63 St",
+        "Daytime Routes": "F Q"
+    },
+    {
+        "GTFS Stop ID": "B10",
+        "Stop Name": "57 St",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "D15",
+        "Stop Name": "47-50 Sts-Rockefeller Ctr",
+        "Daytime Routes": "B D F M"
+    },
+    {
+        "GTFS Stop ID": "D16",
+        "Stop Name": "42 St-Bryant Pk",
+        "Daytime Routes": "B D F M"
+    },
+    {
+        "GTFS Stop ID": "D17",
+        "Stop Name": "34 St-Herald Sq",
+        "Daytime Routes": "B D F M"
+    },
+    {
+        "GTFS Stop ID": "D18",
+        "Stop Name": "23 St",
+        "Daytime Routes": "F M"
+    },
+    {
+        "GTFS Stop ID": "D19",
+        "Stop Name": "14 St",
+        "Daytime Routes": "F M"
+    },
+    {
+        "GTFS Stop ID": "D21",
+        "Stop Name": "Broadway-Lafayette St",
+        "Daytime Routes": "B D F M"
+    },
+    {
+        "GTFS Stop ID": "D22",
+        "Stop Name": "Grand St",
+        "Daytime Routes": "B D"
+    },
+    {
+        "GTFS Stop ID": "F14",
+        "Stop Name": "2 Av",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F15",
+        "Stop Name": "Delancey St-Essex St",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F16",
+        "Stop Name": "East Broadway",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F18",
+        "Stop Name": "York St",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F20",
+        "Stop Name": "Bergen St",
+        "Daytime Routes": "F G"
+    },
+    {
+        "GTFS Stop ID": "F21",
+        "Stop Name": "Carroll St",
+        "Daytime Routes": "F G"
+    },
+    {
+        "GTFS Stop ID": "F22",
+        "Stop Name": "Smith-9 Sts",
+        "Daytime Routes": "F G"
+    },
+    {
+        "GTFS Stop ID": "F23",
+        "Stop Name": "4 Av-9 St",
+        "Daytime Routes": "F G"
+    },
+    {
+        "GTFS Stop ID": "F24",
+        "Stop Name": "7 Av",
+        "Daytime Routes": "F G"
+    },
+    {
+        "GTFS Stop ID": "F25",
+        "Stop Name": "15 St-Prospect Park",
+        "Daytime Routes": "F G"
+    },
+    {
+        "GTFS Stop ID": "F26",
+        "Stop Name": "Fort Hamilton Pkwy",
+        "Daytime Routes": "F G"
+    },
+    {
+        "GTFS Stop ID": "F27",
+        "Stop Name": "Church Av",
+        "Daytime Routes": "F G"
+    },
+    {
+        "GTFS Stop ID": "F29",
+        "Stop Name": "Ditmas Av",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F30",
+        "Stop Name": "18 Av",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F31",
+        "Stop Name": "Avenue I",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F32",
+        "Stop Name": "Bay Pkwy",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F33",
+        "Stop Name": "Avenue N",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F34",
+        "Stop Name": "Avenue P",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F35",
+        "Stop Name": "Kings Hwy",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F36",
+        "Stop Name": "Avenue U",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F38",
+        "Stop Name": "Avenue X",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F39",
+        "Stop Name": "Neptune Av",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F01",
+        "Stop Name": "Jamaica-179 St",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F02",
+        "Stop Name": "169 St",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F03",
+        "Stop Name": "Parsons Blvd",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F04",
+        "Stop Name": "Sutphin Blvd",
+        "Daytime Routes": "F"
+    },
+    {
+        "GTFS Stop ID": "F05",
+        "Stop Name": "Briarwood",
+        "Daytime Routes": "E F"
+    },
+    {
+        "GTFS Stop ID": "F06",
+        "Stop Name": "Kew Gardens-Union Tpke",
+        "Daytime Routes": "E F"
+    },
+    {
+        "GTFS Stop ID": "F07",
+        "Stop Name": "75 Av",
+        "Daytime Routes": "E F"
+    },
+    {
+        "GTFS Stop ID": "G08",
+        "Stop Name": "Forest Hills-71 Av",
+        "Daytime Routes": "E F M R"
+    },
+    {
+        "GTFS Stop ID": "G09",
+        "Stop Name": "67 Av",
+        "Daytime Routes": "M R"
+    },
+    {
+        "GTFS Stop ID": "G10",
+        "Stop Name": "63 Dr-Rego Park",
+        "Daytime Routes": "M R"
+    },
+    {
+        "GTFS Stop ID": "G11",
+        "Stop Name": "Woodhaven Blvd",
+        "Daytime Routes": "M R"
+    },
+    {
+        "GTFS Stop ID": "G12",
+        "Stop Name": "Grand Av-Newtown",
+        "Daytime Routes": "M R"
+    },
+    {
+        "GTFS Stop ID": "G13",
+        "Stop Name": "Elmhurst Av",
+        "Daytime Routes": "M R"
+    },
+    {
+        "GTFS Stop ID": "G14",
+        "Stop Name": "Jackson Hts-Roosevelt Av",
+        "Daytime Routes": "E F M R"
+    },
+    {
+        "GTFS Stop ID": "G15",
+        "Stop Name": "65 St",
+        "Daytime Routes": "M R"
+    },
+    {
+        "GTFS Stop ID": "G16",
+        "Stop Name": "Northern Blvd",
+        "Daytime Routes": "M R"
+    },
+    {
+        "GTFS Stop ID": "G18",
+        "Stop Name": "46 St",
+        "Daytime Routes": "M R"
+    },
+    {
+        "GTFS Stop ID": "G19",
+        "Stop Name": "Steinway St",
+        "Daytime Routes": "M R"
+    },
+    {
+        "GTFS Stop ID": "G20",
+        "Stop Name": "36 St",
+        "Daytime Routes": "M R"
+    },
+    {
+        "GTFS Stop ID": "G21",
+        "Stop Name": "Queens Plaza",
+        "Daytime Routes": "E M R"
+    },
+    {
+        "GTFS Stop ID": "F09",
+        "Stop Name": "Court Sq-23 St",
+        "Daytime Routes": "E M"
+    },
+    {
+        "GTFS Stop ID": "F11",
+        "Stop Name": "Lexington Av/53 St",
+        "Daytime Routes": "E M"
+    },
+    {
+        "GTFS Stop ID": "F12",
+        "Stop Name": "5 Av/53 St",
+        "Daytime Routes": "E M"
+    },
+    {
+        "GTFS Stop ID": "D14",
+        "Stop Name": "7 Av",
+        "Daytime Routes": "B D E"
+    },
+    {
+        "GTFS Stop ID": "G05",
+        "Stop Name": "Jamaica Center-Parsons/Archer",
+        "Daytime Routes": "E J Z"
+    },
+    {
+        "GTFS Stop ID": "G06",
+        "Stop Name": "Sutphin Blvd-Archer Av-JFK Airport",
+        "Daytime Routes": "E J Z"
+    },
+    {
+        "GTFS Stop ID": "G07",
+        "Stop Name": "Jamaica-Van Wyck",
+        "Daytime Routes": "E"
+    },
+    {
+        "GTFS Stop ID": "G22",
+        "Stop Name": "Court Sq",
+        "Daytime Routes": "G"
+    },
+    {
+        "GTFS Stop ID": "G24",
+        "Stop Name": "21 St",
+        "Daytime Routes": "G"
+    },
+    {
+        "GTFS Stop ID": "G26",
+        "Stop Name": "Greenpoint Av",
+        "Daytime Routes": "G"
+    },
+    {
+        "GTFS Stop ID": "G28",
+        "Stop Name": "Nassau Av",
+        "Daytime Routes": "G"
+    },
+    {
+        "GTFS Stop ID": "G29",
+        "Stop Name": "Metropolitan Av",
+        "Daytime Routes": "G"
+    },
+    {
+        "GTFS Stop ID": "G30",
+        "Stop Name": "Broadway",
+        "Daytime Routes": "G"
+    },
+    {
+        "GTFS Stop ID": "G31",
+        "Stop Name": "Flushing Av",
+        "Daytime Routes": "G"
+    },
+    {
+        "GTFS Stop ID": "G32",
+        "Stop Name": "Myrtle-Willoughby Avs",
+        "Daytime Routes": "G"
+    },
+    {
+        "GTFS Stop ID": "G33",
+        "Stop Name": "Bedford-Nostrand Avs",
+        "Daytime Routes": "G"
+    },
+    {
+        "GTFS Stop ID": "G34",
+        "Stop Name": "Classon Av",
+        "Daytime Routes": "G"
+    },
+    {
+        "GTFS Stop ID": "G35",
+        "Stop Name": "Clinton-Washington Avs",
+        "Daytime Routes": "G"
+    },
+    {
+        "GTFS Stop ID": "G36",
+        "Stop Name": "Fulton St",
+        "Daytime Routes": "G"
+    },
+    {
+        "GTFS Stop ID": "101",
+        "Stop Name": "Van Cortlandt Park-242 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "103",
+        "Stop Name": "238 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "104",
+        "Stop Name": "231 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "106",
+        "Stop Name": "Marble Hill-225 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "107",
+        "Stop Name": "215 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "108",
+        "Stop Name": "207 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "109",
+        "Stop Name": "Dyckman St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "110",
+        "Stop Name": "191 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "111",
+        "Stop Name": "181 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "112",
+        "Stop Name": "168 St-Washington Hts",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "113",
+        "Stop Name": "157 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "114",
+        "Stop Name": "145 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "115",
+        "Stop Name": "137 St-City College",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "116",
+        "Stop Name": "125 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "117",
+        "Stop Name": "116 St-Columbia University",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "118",
+        "Stop Name": "Cathedral Pkwy (110 St)",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "119",
+        "Stop Name": "103 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "120",
+        "Stop Name": "96 St",
+        "Daytime Routes": "1 2 3"
+    },
+    {
+        "GTFS Stop ID": "121",
+        "Stop Name": "86 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "122",
+        "Stop Name": "79 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "123",
+        "Stop Name": "72 St",
+        "Daytime Routes": "1 2 3"
+    },
+    {
+        "GTFS Stop ID": "124",
+        "Stop Name": "66 St-Lincoln Center",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "125",
+        "Stop Name": "59 St-Columbus Circle",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "126",
+        "Stop Name": "50 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "127",
+        "Stop Name": "Times Sq-42 St",
+        "Daytime Routes": "1 2 3"
+    },
+    {
+        "GTFS Stop ID": "128",
+        "Stop Name": "34 St-Penn Station",
+        "Daytime Routes": "1 2 3"
+    },
+    {
+        "GTFS Stop ID": "129",
+        "Stop Name": "28 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "130",
+        "Stop Name": "23 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "131",
+        "Stop Name": "18 St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "132",
+        "Stop Name": "14 St",
+        "Daytime Routes": "1 2 3"
+    },
+    {
+        "GTFS Stop ID": "133",
+        "Stop Name": "Christopher St-Sheridan Sq",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "134",
+        "Stop Name": "Houston St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "135",
+        "Stop Name": "Canal St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "136",
+        "Stop Name": "Franklin St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "137",
+        "Stop Name": "Chambers St",
+        "Daytime Routes": "1 2 3"
+    },
+    {
+        "GTFS Stop ID": "138",
+        "Stop Name": "WTC Cortlandt",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "139",
+        "Stop Name": "Rector St",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "142",
+        "Stop Name": "South Ferry",
+        "Daytime Routes": "1"
+    },
+    {
+        "GTFS Stop ID": "228",
+        "Stop Name": "Park Place",
+        "Daytime Routes": "2 3"
+    },
+    {
+        "GTFS Stop ID": "229",
+        "Stop Name": "Fulton St",
+        "Daytime Routes": "2 3"
+    },
+    {
+        "GTFS Stop ID": "230",
+        "Stop Name": "Wall St",
+        "Daytime Routes": "2 3"
+    },
+    {
+        "GTFS Stop ID": "231",
+        "Stop Name": "Clark St",
+        "Daytime Routes": "2 3"
+    },
+    {
+        "GTFS Stop ID": "232",
+        "Stop Name": "Borough Hall",
+        "Daytime Routes": "2 3"
+    },
+    {
+        "GTFS Stop ID": "233",
+        "Stop Name": "Hoyt St",
+        "Daytime Routes": "2 3"
+    },
+    {
+        "GTFS Stop ID": "234",
+        "Stop Name": "Nevins St",
+        "Daytime Routes": "2 3 4 5"
+    },
+    {
+        "GTFS Stop ID": "235",
+        "Stop Name": "Atlantic Av-Barclays Ctr",
+        "Daytime Routes": "2 3 4 5"
+    },
+    {
+        "GTFS Stop ID": "236",
+        "Stop Name": "Bergen St",
+        "Daytime Routes": "2 3"
+    },
+    {
+        "GTFS Stop ID": "237",
+        "Stop Name": "Grand Army Plaza",
+        "Daytime Routes": "2 3"
+    },
+    {
+        "GTFS Stop ID": "238",
+        "Stop Name": "Eastern Pkwy-Brooklyn Museum",
+        "Daytime Routes": "2 3"
+    },
+    {
+        "GTFS Stop ID": "239",
+        "Stop Name": "Franklin Avenue-Medgar Evers College",
+        "Daytime Routes": "2 3 4 5"
+    },
+    {
+        "GTFS Stop ID": "248",
+        "Stop Name": "Nostrand Av",
+        "Daytime Routes": "3"
+    },
+    {
+        "GTFS Stop ID": "249",
+        "Stop Name": "Kingston Av",
+        "Daytime Routes": "3"
+    },
+    {
+        "GTFS Stop ID": "250",
+        "Stop Name": "Crown Hts-Utica Av",
+        "Daytime Routes": "3 4"
+    },
+    {
+        "GTFS Stop ID": "251",
+        "Stop Name": "Sutter Av-Rutland Rd",
+        "Daytime Routes": "3"
+    },
+    {
+        "GTFS Stop ID": "252",
+        "Stop Name": "Saratoga Av",
+        "Daytime Routes": "3"
+    },
+    {
+        "GTFS Stop ID": "253",
+        "Stop Name": "Rockaway Av",
+        "Daytime Routes": "3"
+    },
+    {
+        "GTFS Stop ID": "254",
+        "Stop Name": "Junius St",
+        "Daytime Routes": "3"
+    },
+    {
+        "GTFS Stop ID": "255",
+        "Stop Name": "Pennsylvania Av",
+        "Daytime Routes": "3"
+    },
+    {
+        "GTFS Stop ID": "256",
+        "Stop Name": "Van Siclen Av",
+        "Daytime Routes": "3"
+    },
+    {
+        "GTFS Stop ID": "257",
+        "Stop Name": "New Lots Av",
+        "Daytime Routes": "3"
+    },
+    {
+        "GTFS Stop ID": "241",
+        "Stop Name": "President Street-Medgar Evers College",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "242",
+        "Stop Name": "Sterling St",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "243",
+        "Stop Name": "Winthrop St",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "244",
+        "Stop Name": "Church Av",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "245",
+        "Stop Name": "Beverly Rd",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "246",
+        "Stop Name": "Newkirk Av - Little Haiti",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "247",
+        "Stop Name": "Flatbush Av-Brooklyn College",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "601",
+        "Stop Name": "Pelham Bay Park",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "602",
+        "Stop Name": "Buhre Av",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "603",
+        "Stop Name": "Middletown Rd",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "604",
+        "Stop Name": "Westchester Sq-E Tremont Av",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "606",
+        "Stop Name": "Zerega Av",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "607",
+        "Stop Name": "Castle Hill Av",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "608",
+        "Stop Name": "Parkchester",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "609",
+        "Stop Name": "St Lawrence Av",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "610",
+        "Stop Name": "Morrison Av-Soundview",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "611",
+        "Stop Name": "Elder Av",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "612",
+        "Stop Name": "Whitlock Av",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "613",
+        "Stop Name": "Hunts Point Av",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "614",
+        "Stop Name": "Longwood Av",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "615",
+        "Stop Name": "E 149 St",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "616",
+        "Stop Name": "E 143 St-St Mary's St",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "617",
+        "Stop Name": "Cypress Av",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "618",
+        "Stop Name": "Brook Av",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "619",
+        "Stop Name": "3 Av-138 St",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "401",
+        "Stop Name": "Woodlawn",
+        "Daytime Routes": "4"
+    },
+    {
+        "GTFS Stop ID": "402",
+        "Stop Name": "Mosholu Pkwy",
+        "Daytime Routes": "4"
+    },
+    {
+        "GTFS Stop ID": "405",
+        "Stop Name": "Bedford Park Blvd-Lehman College",
+        "Daytime Routes": "4"
+    },
+    {
+        "GTFS Stop ID": "406",
+        "Stop Name": "Kingsbridge Rd",
+        "Daytime Routes": "4"
+    },
+    {
+        "GTFS Stop ID": "407",
+        "Stop Name": "Fordham Rd",
+        "Daytime Routes": "4"
+    },
+    {
+        "GTFS Stop ID": "408",
+        "Stop Name": "183 St",
+        "Daytime Routes": "4"
+    },
+    {
+        "GTFS Stop ID": "409",
+        "Stop Name": "Burnside Av",
+        "Daytime Routes": "4"
+    },
+    {
+        "GTFS Stop ID": "410",
+        "Stop Name": "176 St",
+        "Daytime Routes": "4"
+    },
+    {
+        "GTFS Stop ID": "411",
+        "Stop Name": "Mt Eden Av",
+        "Daytime Routes": "4"
+    },
+    {
+        "GTFS Stop ID": "412",
+        "Stop Name": "170 St",
+        "Daytime Routes": "4"
+    },
+    {
+        "GTFS Stop ID": "413",
+        "Stop Name": "167 St",
+        "Daytime Routes": "4"
+    },
+    {
+        "GTFS Stop ID": "414",
+        "Stop Name": "161 St-Yankee Stadium",
+        "Daytime Routes": "4"
+    },
+    {
+        "GTFS Stop ID": "415",
+        "Stop Name": "149 St-Grand Concourse",
+        "Daytime Routes": "4"
+    },
+    {
+        "GTFS Stop ID": "416",
+        "Stop Name": "138 St-Grand Concourse",
+        "Daytime Routes": "4 5"
+    },
+    {
+        "GTFS Stop ID": "621",
+        "Stop Name": "125 St",
+        "Daytime Routes": "4 5 6"
+    },
+    {
+        "GTFS Stop ID": "622",
+        "Stop Name": "116 St",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "623",
+        "Stop Name": "110 St",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "624",
+        "Stop Name": "103 St",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "625",
+        "Stop Name": "96 St",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "626",
+        "Stop Name": "86 St",
+        "Daytime Routes": "4 5 6"
+    },
+    {
+        "GTFS Stop ID": "627",
+        "Stop Name": "77 St",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "628",
+        "Stop Name": "68 St-Hunter College",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "629",
+        "Stop Name": "59 St",
+        "Daytime Routes": "4 5 6"
+    },
+    {
+        "GTFS Stop ID": "630",
+        "Stop Name": "51 St",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "631",
+        "Stop Name": "Grand Central-42 St",
+        "Daytime Routes": "4 5 6"
+    },
+    {
+        "GTFS Stop ID": "632",
+        "Stop Name": "33 St",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "633",
+        "Stop Name": "28 St",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "634",
+        "Stop Name": "23 St",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "635",
+        "Stop Name": "14 St-Union Sq",
+        "Daytime Routes": "4 5 6"
+    },
+    {
+        "GTFS Stop ID": "636",
+        "Stop Name": "Astor Pl",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "637",
+        "Stop Name": "Bleecker St",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "638",
+        "Stop Name": "Spring St",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "639",
+        "Stop Name": "Canal St",
+        "Daytime Routes": "6"
+    },
+    {
+        "GTFS Stop ID": "640",
+        "Stop Name": "Brooklyn Bridge-City Hall",
+        "Daytime Routes": "4 5 6"
+    },
+    {
+        "GTFS Stop ID": "418",
+        "Stop Name": "Fulton St",
+        "Daytime Routes": "4 5"
+    },
+    {
+        "GTFS Stop ID": "419",
+        "Stop Name": "Wall St",
+        "Daytime Routes": "4 5"
+    },
+    {
+        "GTFS Stop ID": "420",
+        "Stop Name": "Bowling Green",
+        "Daytime Routes": "4 5"
+    },
+    {
+        "GTFS Stop ID": "423",
+        "Stop Name": "Borough Hall",
+        "Daytime Routes": "4 5"
+    },
+    {
+        "GTFS Stop ID": "201",
+        "Stop Name": "Wakefield-241 St",
+        "Daytime Routes": "2"
+    },
+    {
+        "GTFS Stop ID": "204",
+        "Stop Name": "Nereid Av",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "205",
+        "Stop Name": "233 St",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "206",
+        "Stop Name": "225 St",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "207",
+        "Stop Name": "219 St",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "208",
+        "Stop Name": "Gun Hill Rd",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "209",
+        "Stop Name": "Burke Av",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "210",
+        "Stop Name": "Allerton Av",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "211",
+        "Stop Name": "Pelham Pkwy",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "212",
+        "Stop Name": "Bronx Park East",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "213",
+        "Stop Name": "E 180 St",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "214",
+        "Stop Name": "West Farms Sq-E Tremont Av",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "215",
+        "Stop Name": "174 St",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "216",
+        "Stop Name": "Freeman St",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "217",
+        "Stop Name": "Simpson St",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "218",
+        "Stop Name": "Intervale Av",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "219",
+        "Stop Name": "Prospect Av",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "220",
+        "Stop Name": "Jackson Av",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "221",
+        "Stop Name": "3 Av-149 St",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "222",
+        "Stop Name": "149 St-Grand Concourse",
+        "Daytime Routes": "2 5"
+    },
+    {
+        "GTFS Stop ID": "301",
+        "Stop Name": "Harlem-148 St",
+        "Daytime Routes": "3"
+    },
+    {
+        "GTFS Stop ID": "302",
+        "Stop Name": "145 St",
+        "Daytime Routes": "3"
+    },
+    {
+        "GTFS Stop ID": "224",
+        "Stop Name": "135 St",
+        "Daytime Routes": "2 3"
+    },
+    {
+        "GTFS Stop ID": "225",
+        "Stop Name": "125 St",
+        "Daytime Routes": "2 3"
+    },
+    {
+        "GTFS Stop ID": "226",
+        "Stop Name": "116 St",
+        "Daytime Routes": "2 3"
+    },
+    {
+        "GTFS Stop ID": "227",
+        "Stop Name": "Central Park North (110 St)",
+        "Daytime Routes": "2 3"
+    },
+    {
+        "GTFS Stop ID": "501",
+        "Stop Name": "Eastchester-Dyre Av",
+        "Daytime Routes": "5"
+    },
+    {
+        "GTFS Stop ID": "502",
+        "Stop Name": "Baychester Av",
+        "Daytime Routes": "5"
+    },
+    {
+        "GTFS Stop ID": "503",
+        "Stop Name": "Gun Hill Rd",
+        "Daytime Routes": "5"
+    },
+    {
+        "GTFS Stop ID": "504",
+        "Stop Name": "Pelham Pkwy",
+        "Daytime Routes": "5"
+    },
+    {
+        "GTFS Stop ID": "505",
+        "Stop Name": "Morris Park",
+        "Daytime Routes": "5"
+    },
+    {
+        "GTFS Stop ID": "701",
+        "Stop Name": "Flushing-Main St",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "702",
+        "Stop Name": "Mets-Willets Point",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "705",
+        "Stop Name": "111 St",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "706",
+        "Stop Name": "103 St-Corona Plaza",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "707",
+        "Stop Name": "Junction Blvd",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "708",
+        "Stop Name": "90 St-Elmhurst Av",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "709",
+        "Stop Name": "82 St-Jackson Hts",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "710",
+        "Stop Name": "74 St-Broadway",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "711",
+        "Stop Name": "69 St",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "712",
+        "Stop Name": "Woodside-61 St",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "713",
+        "Stop Name": "52 St",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "714",
+        "Stop Name": "46 St-Bliss St",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "715",
+        "Stop Name": "40 St-Lowery St",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "716",
+        "Stop Name": "33 St-Rawson St",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "718",
+        "Stop Name": "Queensboro Plaza",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "R09",
+        "Stop Name": "Queensboro Plaza",
+        "Daytime Routes": "N W"
+    },
+    {
+        "GTFS Stop ID": "719",
+        "Stop Name": "Court Sq",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "720",
+        "Stop Name": "Hunters Point Av",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "721",
+        "Stop Name": "Vernon Blvd-Jackson Av",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "723",
+        "Stop Name": "Grand Central-42 St",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "724",
+        "Stop Name": "5 Av",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "725",
+        "Stop Name": "Times Sq-42 St",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "902",
+        "Stop Name": "Times Sq-42 St",
+        "Daytime Routes": "S"
+    },
+    {
+        "GTFS Stop ID": "901",
+        "Stop Name": "Grand Central-42 St",
+        "Daytime Routes": "S"
+    },
+    {
+        "GTFS Stop ID": "726",
+        "Stop Name": "34 St-Hudson Yards",
+        "Daytime Routes": "7"
+    },
+    {
+        "GTFS Stop ID": "Q05",
+        "Stop Name": "96 St",
+        "Daytime Routes": "Q"
+    },
+    {
+        "GTFS Stop ID": "Q04",
+        "Stop Name": "86 St",
+        "Daytime Routes": "Q"
+    },
+    {
+        "GTFS Stop ID": "Q03",
+        "Stop Name": "72 St",
+        "Daytime Routes": "Q"
+    },
+    {
+        "GTFS Stop ID": "S31",
+        "Stop Name": "St George",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S30",
+        "Stop Name": "Tompkinsville",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S29",
+        "Stop Name": "Stapleton",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S28",
+        "Stop Name": "Clifton",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S27",
+        "Stop Name": "Grasmere",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S26",
+        "Stop Name": "Old Town",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S25",
+        "Stop Name": "Dongan Hills",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S24",
+        "Stop Name": "Jefferson Av",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S23",
+        "Stop Name": "Grant City",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S22",
+        "Stop Name": "New Dorp",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S21",
+        "Stop Name": "Oakwood Heights",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S20",
+        "Stop Name": "Bay Terrace",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S19",
+        "Stop Name": "Great Kills",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S18",
+        "Stop Name": "Eltingville",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S17",
+        "Stop Name": "Annadale",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S16",
+        "Stop Name": "Huguenot",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S15",
+        "Stop Name": "Prince's Bay",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S14",
+        "Stop Name": "Pleasant Plains",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S13",
+        "Stop Name": "Richmond Valley",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S09",
+        "Stop Name": "Tottenville",
+        "Daytime Routes": "SIR"
+    },
+    {
+        "GTFS Stop ID": "S11",
+        "Stop Name": "Arthur Kill",
+        "Daytime Routes": "SIR"
+    }
+]
