@@ -1,21 +1,30 @@
-const express = require("express");
-const https = require("https");
-const Redis = require("redis")
+import express from "express";
+import { createClient } from "redis";
+import cors from "cors";
 
-const client = Redis.createClient()
+const client = createClient({
+  database: 1
+}); 
+  
+
 client.on('error', (err) => console.log('Redis Client Error', err));
+await client.connect();
 
-const server = express();
+const app = express();
 
-const url = "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-ace";
+app.use(cors());
 
-
-server.get("/", function(req, res) {
-  console.log("here");
+app.get("/", function(req, res) {
+  console.log("ur in");
+  res.send("You are connected!");
 })
-// server.get("getTrains/:stopID", function(req, res) {
-//   // console.log(req.params.stopID)
 
-server.listen(3000, function() {
+app.get("/getTrains/:stopID", async function(req, res) {
+  const stopID = req.params.stopID;
+  const data = await client.zScan(stopID, 0);
+  res.send(data);
+});
+
+app.listen(3000, function() {
   console.log("Server is running on port 3000.");
 });
