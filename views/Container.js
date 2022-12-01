@@ -10,7 +10,7 @@ export default function Container(props) {
       <Text style={styles.title}>{props.title}</Text>
       <SwitchViewButton />
     </View>
-    {props.title === "Search" && <SearchBar />}
+    {props.subtitle}
     <View style={styles.line}/>
     <View style={styles.resultsContent}>
       {props.content}

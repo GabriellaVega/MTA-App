@@ -1,16 +1,12 @@
 import { TextInput, StyleSheet } from "react-native";
 import { useState } from "react";
 
-export default function SearchBar() {
-    const [inputText, setInputText] = useState("");
-    function handleChange(event) {
-      setInputText(event.target.value)
-    }
+export default function SearchBar(props) {
+
     return (<>
     <TextInput
         style={styles.input}
-        value={inputText}
-        onChange={handleChange}
+        onChange={props.onChangeHandler}
         placeholder="Search for subway lines and stations"
     />
     </>)
