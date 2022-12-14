@@ -4,30 +4,9 @@ import Favorites from './views/Favorites';
 import Search from './views/search/Search';
 import { useState } from 'react';
 
-async function getData() {
-  try {
-    const url = "http://localhost:3000";
-    const response = await fetch(url + "/getTrains/R01N", {
-      request: "GET"
-    })
-    .then((res) => {
-      if (!res.ok) {
-        throw new Error(`HTTP error! Status: ${res.status}`);
-      }
-      return res.json();
-    }).then((data) => {
-      console.log(data);
-    })
-  } catch (error) {
-    console.log(error);
-  }
-}
 
 export default function App() {
 
-  getData().then((response) => {
-    console.log(response);
-  });
   const [currentViewString, setCurrentView] = useState("home");
   let CurrentView;
   switch (currentViewString) {

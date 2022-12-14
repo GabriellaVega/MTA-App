@@ -1,24 +1,36 @@
 import { StyleSheet } from "react-native";
+import { useState } from "react";
 import HomeButton from "../HomeButton";
 import Container from "../Container";
 import stations from "../../assets/Stations.json";
-import Station from "./Station";
-
-function AllStations() {
-  return(stations.map(function callback(item) {
-    return(<Station key={item["GTFS Stop ID"]} daytimeRoutes={item["Daytime Routes"]} stopName={item["Stop Name"]}/>)
-  }))
-
-}
+import AllStations from "../common/AllStations";
+import SearchBar from "./SearchBar";
+import useFavorites from "../common/useFavorites";
 
 export default function Search(props) {
+  const [favoriteStations, changeLastUpdated] = useFavorites();
+  const [displayStations, changeDisplayStations] = useState(stations);
+  function handleDisplayChange(event) {
+    const inputText = event.target.value;
+
+    const result = stations.filter( item => {
+      return item["Stop Name"].toLowerCase().includes(inputText.toLowerCase());
+    })
+
+    changeDisplayStations(result);
+  }
+
   return (<>
     <HomeButton setCurrentView={props.setCurrentView}/>
     <Container 
       title="Search" 
+      subtitle={<SearchBar onChangeHandler={handleDisplayChange}/>}
       containerStyle={styles.searchContainer} 
-      content={<AllStations/>}
-    />
+    >
+      <AllStations displayStations={displayStations} currentFavorites={favoriteStations.map((item) => {
+        return item["GTFS Stop ID"]
+      })} changeLastUpdated={changeLastUpdated}/>
+    </Container>
   </>
   );
 }
