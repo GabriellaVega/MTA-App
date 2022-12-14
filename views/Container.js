@@ -13,7 +13,7 @@ export default function Container(props) {
     {props.subtitle}
     <View style={styles.line}/>
     <View style={styles.resultsContent}>
-      {props.content}
+      {props.children}
     </View>
   </View>
   );
